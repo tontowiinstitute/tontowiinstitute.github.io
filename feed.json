@@ -2,35 +2,35 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "The Tontowi Institute",
     "description": "",
-    "home_page_url": "https://tontowiinstitute.github.io/website",
-    "feed_url": "https://tontowiinstitute.github.io/website/feed.json",
+    "home_page_url": "https://tontowiinstitute.github.io",
+    "feed_url": "https://tontowiinstitute.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "The Tontowi Institute"
     },
     "items": [
         {
-            "id": "https://tontowiinstitute.github.io/website/faq.html",
-            "url": "https://tontowiinstitute.github.io/website/faq.html",
+            "id": "https://tontowiinstitute.github.io/faq.html",
+            "url": "https://tontowiinstitute.github.io/faq.html",
             "title": "FAQ",
             "summary": "Apa itu The Tontowi Institute (TTI)? Berdiri sejak 1 Desember 2021, The Tontowi Institute adalah lembaga yang berusaha mewujudkan visi,&hellip;",
-            "content_html": "<h2>Apa itu The Tontowi Institute (TTI)?</h2>\n<p>Berdiri sejak 1 Desember 2021, The Tontowi Institute adalah lembaga yang berusaha mewujudkan visi, cita-cita dan gagasan almaghfurloh Dr. Ir. KH. Mahmud Tontowi, M. MT. dalam membangun kapasitas dan kapabilitas SDM untuk mendorong terciptanya masyarakat yang berkualitas lahir dan batin. <a href=\"https://tontowiinstitute.github.io/website/tontowi-institute.html\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Baca selengkapnya di sini.</em></a></p>\n<h2>Apa program dan kegiatan TTI?</h2>\n<p>The Tontowi Institute menjalankan sejumlah program yang terfokus pada kegiatan sosial seperti pendataan non panti asuhan, pendataan non panti lansia, program madrasah diniyah, hingga beasiswa, juga kegiatan riset dan kajian, serta pengembangan dan konsultasi organisasi/lembaga pendidikan.</p>\n<h2>Siapa dan lembaga mana saja yang selama ini menjadi jaringan TTI?</h2>\n<p>Sebelum berdiri hingga sekarang, anggota The Tontowi Institute telah membangun banyak jaringan, baik individu dan lembaga, yang tersebar di tingkat lokal, nasional, dan internasional. Sejumlah individu merupakan tokoh lokal dan pesantren yang memiliki pikiran terbuka.</p>\n<p>Lembaga yang menjadi jaringan lokal di antaranya PCNU Kota Mojokerto, Muslimat Kota Mojokerto, Fatayat Kota Mojokerto, PP Putri Darul Quran Kota Mojokerto.</p>\n<p>Lembaga yang menjadi jaringan internasional di antaranya PCI NU Jerman, KBRI Berlin, KJRI Hamburg, Jacob University - Jerman. </p>\n<h2>Bagaimana saya bisa bekerja dan terlibat dalam aktivitas dan program TTI?<strong><br></strong></h2>\n<p><em><a href=\"https://tontowiinstitute.github.io/website/dukung-kami.html\">Baca selengkapnya di sini.</a></em></p>\n<h2>Bagaimana saya bisa mendukung program dan kegiatan-kegiatan TTI?</h2>\n<p><em><a href=\"https://tontowiinstitute.github.io/website/dukung-kami.html\">Baca selengkapnya di sini.</a></em></p>\n<h2>Bagaimana TTI bekerja dan menjalankan programnya?</h2>\n<p>Dalam menjalankan programnya The Tontowi Institute sering bekerjasama dengan NGO dalam dan luar negeri, pesantren, pemerintah, dan mitra lokal.</p>\n<h2>Apakah TTI memiliki perwakilan di daerah?</h2>\n<p>The Tontowi Institute tidak memiliki perwakilan di daerah</p>\n<h2>Bagaimana saya bisa menghubungi The Tontowi Institute?</h2>\n<p>The Tontowi Institute<br>Jl. Pahlawan, Kranggan Permai E/6<br>61321, Mojokerto, Jawa Timur<br>Indonesia</p>\n<p><a href=\"mailto:mail@tontowi.institute\">mail@tontowi.institute</a></p>\n<p>(000) 000-0000</p>",
-            "image": "https://tontowiinstitute.github.io/website/media/posts/6/faq.jpg",
+            "content_html": "<h2>Apa itu The Tontowi Institute (TTI)?</h2>\n<p>Berdiri sejak 1 Desember 2021, The Tontowi Institute adalah lembaga yang berusaha mewujudkan visi, cita-cita dan gagasan almaghfurloh Dr. Ir. KH. Mahmud Tontowi, M. MT. dalam membangun kapasitas dan kapabilitas SDM untuk mendorong terciptanya masyarakat yang berkualitas lahir dan batin. <a href=\"https://tontowiinstitute.github.io/tontowi-institute.html\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Baca selengkapnya di sini.</em></a></p>\n<h2>Apa program dan kegiatan TTI?</h2>\n<p>The Tontowi Institute menjalankan sejumlah program yang terfokus pada kegiatan sosial seperti pendataan non panti asuhan, pendataan non panti lansia, program madrasah diniyah, hingga beasiswa, juga kegiatan riset dan kajian, serta pengembangan dan konsultasi organisasi/lembaga pendidikan.</p>\n<h2>Siapa dan lembaga mana saja yang selama ini menjadi jaringan TTI?</h2>\n<p>Sebelum berdiri hingga sekarang, anggota The Tontowi Institute telah membangun banyak jaringan, baik individu dan lembaga, yang tersebar di tingkat lokal, nasional, dan internasional. Sejumlah individu merupakan tokoh lokal dan pesantren yang memiliki pikiran terbuka.</p>\n<p>Lembaga yang menjadi jaringan lokal di antaranya PCNU Kota Mojokerto, Muslimat Kota Mojokerto, Fatayat Kota Mojokerto, PP Putri Darul Quran Kota Mojokerto.</p>\n<p>Lembaga yang menjadi jaringan internasional di antaranya PCI NU Jerman, KBRI Berlin, KJRI Hamburg, Jacob University - Jerman. </p>\n<h2>Bagaimana saya bisa bekerja dan terlibat dalam aktivitas dan program TTI?<strong><br></strong></h2>\n<p><em><a href=\"https://tontowiinstitute.github.io/dukung-kami.html\">Baca selengkapnya di sini.</a></em></p>\n<h2>Bagaimana saya bisa mendukung program dan kegiatan-kegiatan TTI?</h2>\n<p><em><a href=\"https://tontowiinstitute.github.io/dukung-kami.html\">Baca selengkapnya di sini.</a></em></p>\n<h2>Bagaimana WI bekerja dan menjalankan programnya?</h2>\n<p>Dalam menjalankan programnya The Tontowi Institute sering bekerjasama dengan NGO dalam dan luar negeri, pesantren, pemerintah, dan mitra lokal.</p>\n<h2>Apakah TTI memiliki perwakilan di daerah?</h2>\n<p>The Tontowi Institute tidak memiliki perwakilan di daerah</p>\n<h2>Bagaimana saya bisa menghubungi The Tontowi Institute?</h2>\n<p>The Tontowi Institute<br>Jl. Pahlawan, Kranggan Permai E/6<br>61321, Mojokerto, Jawa Timur<br>Indonesia</p>\n<p><a href=\"mailto:mail@tontowi-institute.com\">mail@tontowi-institute.com</a></p>\n<p>(000) 000-0000</p>",
+            "image": "https://tontowiinstitute.github.io/media/posts/6/faq.jpg",
             "author": {
                 "name": "The Tontowi Institute"
             },
             "tags": [
             ],
             "date_published": "2021-12-02T18:10:24+01:00",
-            "date_modified": "2021-12-04T15:44:45+01:00"
+            "date_modified": "2021-12-02T18:15:22+01:00"
         },
         {
-            "id": "https://tontowiinstitute.github.io/website/dukung-kami.html",
-            "url": "https://tontowiinstitute.github.io/website/dukung-kami.html",
+            "id": "https://tontowiinstitute.github.io/dukung-kami.html",
+            "url": "https://tontowiinstitute.github.io/dukung-kami.html",
             "title": "Dukung Kami",
             "summary": "Anda bisa mendukung visi dan program-program The Tontowi Institute melalui : Anda bisa berdonasi untuk berpartisipasi dalam Donasi dapat dikirim&hellip;",
             "content_html": "<p>Anda bisa mendukung visi dan program-program The Tontowi Institute melalui :</p>\n<h2>Aksi</h2>\n<ul>\n<li>Informasikan lembaga/organisasi yang sedang dalam kesulitan baik finansial dan manajerial kepada kami</li>\n<li>Membantu kami menyebarkan program dan kegiatan The Tontowi Institute ke kalangan terdekat</li>\n<li>Membantu anak-anak yatim piatu atau fakir miskin dengan dukungan moral dan sosial</li>\n</ul>\n<h2>Bekerja Bersama Kami</h2>\n<ul>\n<li>Berpartisipasi aktif dalam kegiatan dan projek-projek The Tontowi Institute</li>\n<li>Diskusikan gagasan dan ide-ide anda bagaimana menyebarkan pesan-pesan pendidikan ke masyarakat</li>\n<li>Kerjasama program dengan organisasi, komunitas, perusahaan anda atau membangun program bersama</li>\n</ul>\n<h2>Donasi</h2>\n<p>Anda bisa berdonasi untuk berpartisipasi dalam</p>\n<ul>\n<li><em>Tontowi for Humanity</em> demi membantu korban bencana alam</li>\n<li><em>Tontowi Scholarship</em> demi membantu kami menambahkan satu atau lebih penerima manfaat beasiswa</li>\n<li>Pengembangan ekonomi akar rumput untuk membantu lebih banyak lagi kelompok-kelompok masyarakat yang kuat dan sejahtera</li>\n<li>Proyek dan program-program lain</li>\n</ul>\n<p>Donasi dapat dikirim ke</p>\n<p>The Tontowi Institute<br>Bank ... ... ...<br>A/C : 000.00.0000000.0</p>",
-            "image": "https://tontowiinstitute.github.io/website/media/posts/5/pexels-artem-beliaikin-1153976.jpg",
+            "image": "https://tontowiinstitute.github.io/media/posts/5/pexels-artem-beliaikin-1153976.jpg",
             "author": {
                 "name": "The Tontowi Institute"
             },
@@ -41,12 +41,12 @@
             "date_modified": "2021-12-02T18:52:57+01:00"
         },
         {
-            "id": "https://tontowiinstitute.github.io/website/hubungan-internasional.html",
-            "url": "https://tontowiinstitute.github.io/website/hubungan-internasional.html",
+            "id": "https://tontowiinstitute.github.io/hubungan-internasional.html",
+            "url": "https://tontowiinstitute.github.io/hubungan-internasional.html",
             "title": "Hubungan Internasional",
             "summary": "The Tontowi Institute telah menjalin hubungan kerja sama dengan beberapa institusi dan lembaga di luar negeri. Memegang teguh prinsip al-muhafadzah&hellip;",
             "content_html": "<p>The Tontowi Institute telah menjalin hubungan kerja sama dengan beberapa institusi dan lembaga di luar negeri. Memegang teguh prinsip <em>al-muhafadzah alal-qadim al-shalih wal-akhdzu bil-jadid al-ashlah</em>, The Tontowi Institute selalu berusaha untuk bisa membawa pembaruan dengan nilai-nilai kebaikan, baik dari dalam maupun luar negeri.</p>\n<h2>Relasi dan Kerjasama</h2>\n<ol>\n<li>Pengurus Cabang Istimewa Nahdlatul Ulama Jerman</li>\n<li>Kedutaan Besar Republik Indonesia - Berlin, Jerman</li>\n<li>Konsulat Jenderal Republik Indonesia - Hamburg, Jerman</li>\n<li>Jacob University - Bremen, Jerman</li>\n</ol>",
-            "image": "https://tontowiinstitute.github.io/website/media/posts/4/shutterstock_1536232298.jpg",
+            "image": "https://tontowiinstitute.github.io/media/posts/4/shutterstock_1536232298.jpg",
             "author": {
                 "name": "The Tontowi Institute"
             },
@@ -57,12 +57,12 @@
             "date_modified": "2021-12-02T18:52:45+01:00"
         },
         {
-            "id": "https://tontowiinstitute.github.io/website/the-tontowi-foundation.html",
-            "url": "https://tontowiinstitute.github.io/website/the-tontowi-foundation.html",
+            "id": "https://tontowiinstitute.github.io/the-tontowi-foundation.html",
+            "url": "https://tontowiinstitute.github.io/the-tontowi-foundation.html",
             "title": "The Tontowi Foundation",
             "summary": "The Tontowi Foundation adalah yayasan yang berfokus pada pendidikan di tingkat PAUD hingga Jenjang atas, serta pendampingan untuk masyarakat, baik&hellip;",
             "content_html": "<p>The Tontowi Foundation adalah yayasan yang berfokus pada pendidikan di tingkat PAUD hingga Jenjang atas, serta pendampingan untuk masyarakat, baik di bidang umum maupun <em>diniyah</em>. The Tontowi Foundation menaungi serta bekerja sama dengan beberapa lembaga dan yayasan demi tercapainya masyarakat yang madani dan relijius. </p>\n<h2>Relasi dan Kerjasama</h2>\n<ol>\n<li>Madrasah Diniyah Noor Cendikia Islam\n<ul>\n<li>Jenjang: Marhalah I dadiyah, Marhalah Ibtidaiyah, Marhalah Tatsqif, dan Marhalah Tathdiq.</li>\n</ul>\n</li>\n<li>Lembaga Bimbel Rainbow\n<ul>\n<li>Muatan: Sains dan Bahasa asing</li>\n<li>Sasaran: usia PAUD</li>\n</ul>\n</li>\n<li>Parenting Noorussalam\n<ul>\n<li>Kajian Tafsir, Hadist, dan Fiqh → El Bukhari</li>\n<li>Membaca Burdah, diba, khataman Al Quran, dan Tahlil</li>\n<li>Sasaran: ibu wali murid Madin Noor Cendekia Islam</li>\n</ul>\n</li>\n<li>Lembaga Kajian Usia Pranikah Noorussalam\n<ul>\n<li>Sasaran: Fatayat NU belum menikah dan IPPNU</li>\n</ul>\n</li>\n</ol>\n<p> </p>",
-            "image": "https://tontowiinstitute.github.io/website/media/posts/3/pexels-asap-jpeg-4511198-2.jpg",
+            "image": "https://tontowiinstitute.github.io/media/posts/3/pexels-asap-jpeg-4511198-2.jpg",
             "author": {
                 "name": "The Tontowi Institute"
             },
@@ -73,12 +73,12 @@
             "date_modified": "2021-12-02T18:16:20+01:00"
         },
         {
-            "id": "https://tontowiinstitute.github.io/website/lembaga-kajian-strategis.html",
-            "url": "https://tontowiinstitute.github.io/website/lembaga-kajian-strategis.html",
+            "id": "https://tontowiinstitute.github.io/lembaga-kajian-strategis.html",
+            "url": "https://tontowiinstitute.github.io/lembaga-kajian-strategis.html",
             "title": "Lembaga Kajian Strategis",
             "summary": "Di bawah naungan The Tontowi Institute, Lembaga Kajian Strategis berfungsi untuk memberikan pelayanan kepada masyarakat melalui beberapa kegiatan antara lain&hellip;",
             "content_html": "<p>Di bawah naungan The Tontowi Institute, Lembaga Kajian Strategis berfungsi untuk memberikan pelayanan kepada masyarakat melalui beberapa kegiatan antara lain penelitian dan publikasi di jurnal ilmiah serta konsultasi untuk pendampingan dan penguatan organisasi/lembaga pendidikan.</p>\n<h2>Kegiatan dan Pelayanan</h2>\n<ul>\n<li>Pembuatan dan pemeliharaan <em>Data Base</em>.</li>\n<li>Pendampingan dan konsultasi dalam menyusun perencanaan dan kebijakan suatu organisasi atau lembaga.</li>\n<li>Pendampingan dan konsultasi dalam penguatan suatu lembaga pendidikan.</li>\n<li>Pendampingan dan konsultasi dalam penggunaan aplikasi IT.</li>\n<li>Penelitian ilmiah.</li>\n<li>Publikasi di jurnal ilmiah dan media sosial.</li>\n</ul>",
-            "image": "https://tontowiinstitute.github.io/website/media/posts/2/pexels-ron-lach-10347160-2.jpg",
+            "image": "https://tontowiinstitute.github.io/media/posts/2/pexels-ron-lach-10347160-2.jpg",
             "author": {
                 "name": "The Tontowi Institute"
             },
@@ -89,12 +89,12 @@
             "date_modified": "2021-12-02T14:46:31+01:00"
         },
         {
-            "id": "https://tontowiinstitute.github.io/website/tontowi-institute.html",
-            "url": "https://tontowiinstitute.github.io/website/tontowi-institute.html",
+            "id": "https://tontowiinstitute.github.io/tontowi-institute.html",
+            "url": "https://tontowiinstitute.github.io/tontowi-institute.html",
             "title": "The Tontowi Institute",
             "summary": "<p>Berdiri sejak 1 Desember 2021, The Tontowi Institute adalah lembaga yang berusaha mewujudkan visi, cita-cita dan gagasan almaghfurloh Dr. Ir. KH. Mahmud Tontowi, M. MT. dalam membangun kapasitas dan kapabilitas SDM untuk mendorong terciptanya masyarakat yang berkualitas lahir dan batin.</p>\n",
             "content_html": "<p>Berdiri sejak 1 Desember 2021, The Tontowi Institute adalah lembaga yang berusaha mewujudkan visi, cita-cita dan gagasan almaghfurloh Dr. Ir. KH. Mahmud Tontowi, M. MT. dalam membangun kapasitas dan kapabilitas SDM untuk mendorong terciptanya masyarakat yang berkualitas lahir dan batin.</p>\n\n<p>Kami ingin melestarikan tradisi yang dibangun KH. Mahmud Tontowi melalui:</p>\n<ul>\n<li>Jalinan Silaturrahiim (ukhuwah Islamiyah, wathoniah, dan basyariyah).</li>\n<li>Aktivitas Sosial dan Pendidikan.</li>\n<li>Kemandirian usaha, relasi dan jaringan.</li>\n<li>Pelestarian ekosistem yang telah dibangun oleh almaghfurloh KH. Mahmud Tontowi supaya tumbuh berkembang dan berkelanjutan.</li>\n</ul>\n<h2 class=\"align-center\">Visi</h2>\n<ul>\n<li>Relijius</li>\n<li>Intelektual</li>\n<li>Budi pekerti luhur</li>\n<li>Hubungan Sosial</li>\n</ul>\n<h2 class=\"align-center\">Misi</h2>\n<ul>\n<li>Menanamkan prinsip-prinsip agama sebagai landasan fundamental berdasarkan nilai-nilai spiritualitas dalam berpikir dan bertindak.</li>\n<li>Membangun dan mengembangkan pola pikir untuk meningkatkan kapasitas dan kualitas daya pikir berdasarkan nilai-nilai berilmu amaliah dan beramal ilmiah.</li>\n<li>Mengembangkan karakter berdasarkan nila-nilai <em>akhlaqul karimah</em>.</li>\n<li>Membina hubungan sosial dan mengembangkan jejaring berdasarkan nilai-nilai humanis.</li>\n</ul>\n<h2 class=\"align-center\">Tujuan</h2>\n<p>Terwujudnya SDM yang berkualitas lahir dan batin dengan:</p>\n<ul>\n<li>Iman dan taqwa yang berkualitas.</li>\n<li>Berilmu yang diamalkan dan beramal berdasarkan ilmu.</li>\n<li>Citra diri yang positif.</li>\n<li>Hubungan sosial yang harmonis dan menjunjung toleransi.</li>\n</ul>",
-            "image": "https://tontowiinstitute.github.io/website/media/posts/1/Institute-2.png",
+            "image": "https://tontowiinstitute.github.io/media/posts/1/Institute-2.png",
             "author": {
                 "name": "The Tontowi Institute"
             },
