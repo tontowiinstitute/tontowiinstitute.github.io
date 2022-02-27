@@ -3,16 +3,16 @@
     <title>The Tontowi Institute</title>
     <link href="https://tontowi.institute/feed.xml" rel="self" />
     <link href="https://tontowi.institute" />
-    <updated>2022-02-27T15:25:51+01:00</updated>
+    <updated>2022-02-27T15:28:56+01:00</updated>
     <author>
-        <name>The Tontowi Institute</name>
+        <name>Tontowi Institute</name>
     </author>
     <id>https://tontowi.institute</id>
 
     <entry>
         <title>FAQ</title>
         <author>
-            <name>The Tontowi Institute</name>
+            <name>Tontowi Institute</name>
         </author>
         <link href="https://tontowi.institute/faq.html"/>
         <id>https://tontowi.institute/faq.html</id>
@@ -50,7 +50,7 @@
     <entry>
         <title>Dukung Kami</title>
         <author>
-            <name>The Tontowi Institute</name>
+            <name>Tontowi Institute</name>
         </author>
         <link href="https://tontowi.institute/dukung-kami.html"/>
         <id>https://tontowi.institute/dukung-kami.html</id>
@@ -93,7 +93,7 @@
     <entry>
         <title>Hubungan Internasional</title>
         <author>
-            <name>The Tontowi Institute</name>
+            <name>Tontowi Institute</name>
         </author>
         <link href="https://tontowi.institute/hubungan-internasional.html"/>
         <id>https://tontowi.institute/hubungan-internasional.html</id>
@@ -122,13 +122,13 @@
     <entry>
         <title>Tontowi Foundation</title>
         <author>
-            <name>The Tontowi Institute</name>
+            <name>Tontowi Institute</name>
         </author>
         <link href="https://tontowi.institute/the-tontowi-foundation.html"/>
         <id>https://tontowi.institute/the-tontowi-foundation.html</id>
             <category term="The Tontowi Foundation"/>
 
-        <updated>2022-02-27T15:18:42+01:00</updated>
+        <updated>2022-02-27T15:28:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tontowi.institute/media/posts/3/pexels-asap-jpeg-4511198-2.jpg" alt="" />
@@ -171,7 +171,7 @@
     <entry>
         <title>Lembaga Kajian Strategis</title>
         <author>
-            <name>The Tontowi Institute</name>
+            <name>Tontowi Institute</name>
         </author>
         <link href="https://tontowi.institute/lembaga-kajian-strategis.html"/>
         <id>https://tontowi.institute/lembaga-kajian-strategis.html</id>
@@ -203,7 +203,7 @@
     <entry>
         <title>Tontowi Institute</title>
         <author>
-            <name>The Tontowi Institute</name>
+            <name>Tontowi Institute</name>
         </author>
         <link href="https://tontowi.institute/tontowi-institute.html"/>
         <id>https://tontowi.institute/tontowi-institute.html</id>
