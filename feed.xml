@@ -3,7 +3,7 @@
     <title>The Tontowi Institute</title>
     <link href="https://tontowi.institute/feed.xml" rel="self" />
     <link href="https://tontowi.institute" />
-    <updated>2022-02-27T13:10:48+01:00</updated>
+    <updated>2022-02-27T15:07:40+01:00</updated>
     <author>
         <name>The Tontowi Institute</name>
     </author>
@@ -208,17 +208,17 @@
         <link href="https://tontowi.institute/tontowi-institute.html"/>
         <id>https://tontowi.institute/tontowi-institute.html</id>
 
-        <updated>2022-02-27T12:22:48+01:00</updated>
+        <updated>2022-02-27T15:07:40+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tontowi.institute/media/posts/1/home-2.jpg" alt="" />
+                        <img src="https://tontowi.institute/media/posts/1/IMG_20220102_133846_1.jpg" alt="" />
                     <p>Berdiri sejak 1 Desember 2021, The Tontowi Institute adalah lembaga yang didirikan untuk mewujudkan visi, cita-cita dan gagasan <em>almaghfurloh</em> Dr. Ir. KH. Mahmud Tontowi, M. MT. dalam membangun kapasitas dan kapabilitas SDM untuk mendorong terciptanya masyarakat yang berkualitas lahir dan batin.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://tontowi.institute/media/posts/1/home-2.jpg" alt="" />
+                    <img src="https://tontowi.institute/media/posts/1/IMG_20220102_133846_1.jpg" alt="" />
                 <p>Berdiri sejak 1 Desember 2021, The Tontowi Institute adalah lembaga yang didirikan untuk mewujudkan visi, cita-cita dan gagasan <em>almaghfurloh</em> Dr. Ir. KH. Mahmud Tontowi, M. MT. dalam membangun kapasitas dan kapabilitas SDM untuk mendorong terciptanya masyarakat yang berkualitas lahir dan batin.</p>
 
 <p>Kami ingin melestarikan tradisi yang dibangun KH. Mahmud Tontowi melalui:</p>
@@ -250,6 +250,7 @@
 <li>Citra diri yang positif.</li>
 <li>Hubungan sosial yang harmonis dan menjunjung toleransi.</li>
 </ul>
+<figure class="post__image"><img loading="lazy"  src="https://tontowi.institute/media/posts/1/WhatsApp-Image-2022-02-27-at-14.31.06-1-2.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tontowi.institute/media/posts/1/responsive/WhatsApp-Image-2022-02-27-at-14.31.06-1-2-xs.jpeg 300w ,https://tontowi.institute/media/posts/1/responsive/WhatsApp-Image-2022-02-27-at-14.31.06-1-2-sm.jpeg 480w ,https://tontowi.institute/media/posts/1/responsive/WhatsApp-Image-2022-02-27-at-14.31.06-1-2-md.jpeg 768w"  alt="" width="1280" height="960"></figure>
             ]]>
         </content>
     </entry>
