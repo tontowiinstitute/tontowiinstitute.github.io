@@ -3,7 +3,7 @@
     <title>The Tontowi Institute</title>
     <link href="https://tontowi.institute/feed.xml" rel="self" />
     <link href="https://tontowi.institute" />
-    <updated>2022-02-27T15:07:40+01:00</updated>
+    <updated>2022-02-27T15:15:22+01:00</updated>
     <author>
         <name>The Tontowi Institute</name>
     </author>
@@ -208,7 +208,7 @@
         <link href="https://tontowi.institute/tontowi-institute.html"/>
         <id>https://tontowi.institute/tontowi-institute.html</id>
 
-        <updated>2022-02-27T15:07:40+01:00</updated>
+        <updated>2022-02-27T15:15:22+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tontowi.institute/media/posts/1/IMG_20220102_133846_1.jpg" alt="" />
@@ -250,7 +250,10 @@
 <li>Citra diri yang positif.</li>
 <li>Hubungan sosial yang harmonis dan menjunjung toleransi.</li>
 </ul>
-<figure class="post__image"><img loading="lazy"  src="https://tontowi.institute/media/posts/1/WhatsApp-Image-2022-02-27-at-14.31.06-1-2.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tontowi.institute/media/posts/1/responsive/WhatsApp-Image-2022-02-27-at-14.31.06-1-2-xs.jpeg 300w ,https://tontowi.institute/media/posts/1/responsive/WhatsApp-Image-2022-02-27-at-14.31.06-1-2-sm.jpeg 480w ,https://tontowi.institute/media/posts/1/responsive/WhatsApp-Image-2022-02-27-at-14.31.06-1-2-md.jpeg 768w"  alt="" width="1280" height="960"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://tontowi.institute/media/posts/1/gallery/WhatsApp-Image-2022-02-27-at-14.31.06-1.jpeg" data-size="1280x960"><img loading="lazy" src="https://tontowi.institute/media/posts/1/gallery/WhatsApp-Image-2022-02-27-at-14.31.06-1-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://tontowi.institute/media/posts/1/gallery/WhatsApp-Image-2022-02-27-at-14.31.06.jpeg" data-size="1280x960"><img loading="lazy" src="https://tontowi.institute/media/posts/1/gallery/WhatsApp-Image-2022-02-27-at-14.31.06-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
