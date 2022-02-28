@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "The Tontowi Institute",
+    "title": "Tontowi Institute",
     "description": "",
     "home_page_url": "https://tontowi.institute",
     "feed_url": "https://tontowi.institute/feed.json",
@@ -102,7 +102,7 @@
             "tags": [
             ],
             "date_published": "2021-12-01T01:42:48+01:00",
-            "date_modified": "2022-02-27T17:19:29+01:00"
+            "date_modified": "2022-02-27T17:18:22+01:00"
         }
     ]
 }

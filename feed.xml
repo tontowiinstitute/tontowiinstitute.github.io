@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>The Tontowi Institute</title>
+    <title>Tontowi Institute</title>
     <link href="https://tontowi.institute/feed.xml" rel="self" />
     <link href="https://tontowi.institute" />
-    <updated>2022-02-27T17:19:29+01:00</updated>
+    <updated>2022-02-27T17:18:22+01:00</updated>
     <author>
         <name>Tontowi Institute</name>
     </author>
@@ -208,7 +208,7 @@
         <link href="https://tontowi.institute/tontowi-institute.html"/>
         <id>https://tontowi.institute/tontowi-institute.html</id>
 
-        <updated>2022-02-27T17:19:29+01:00</updated>
+        <updated>2022-02-27T17:18:22+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tontowi.institute/media/posts/1/274651729_5383478004998614_2110399816023117325_n.jpg" alt="" />
